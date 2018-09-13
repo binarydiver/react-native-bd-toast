@@ -1,0 +1,38 @@
+{
+  "name": "react-native-bd-toast",
+  "version": "1.0.0",
+  "description": "React Native module to show toast view.",
+  "keywords": [
+    "react-native",
+    "react-native-toast",
+    "toast",
+    "toast-view",
+    "alert"
+  ],
+  "homepage": "https://github.com/binarydiver/react-native-bd-toast/blob/master/README.md",
+  "bugs": {
+    "url" : "https://github.com/binarydiver/react-native-bd-toast/issues",
+    "email" : "binarydiver@gmail.com"
+  },
+  "license": "MIT",
+  "author": {
+    "name" : "Jason Park",
+    "email" : "binarydiver@gmail.com",
+    "url" : "https://binarydiver.github.io/blog/"
+  },
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "repository" :
+  {
+    "type" : "git",
+    "url" : "https://github.com/binarydiver/react-native-bd-toast"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react-native": ">= 0.30.0"
+  }
+}
